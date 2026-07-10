@@ -1,1 +1,10 @@
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am a cybersecurity professional with a strong foundation in software engineering, currently completing my Master of Science in Information Systems Security at Strathmore University. My work sits at the intersection of secure system design, security operations, and applied research. With experience in software development and IT support, I understand how systems are built, and more importantly, how they can be secured, monitored, and defended. As a Research Scholar and Software Developer at iLabAfrica, I contribute to applied security and innovation-driven projects while strengthening my expertise in defensive security, risk management, and enterprise security architecture. My current Interest: Security Operations Centers (SOC), Cybersecurity Analysis, Information Security Governance, Application Security, Threat Intelligence & Blue Teaming I am open to collaborating on research, security initiatives, and cybersecurity roles where I can contribute to building resilient and secure systems.
