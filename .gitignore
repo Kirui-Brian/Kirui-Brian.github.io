@@ -21,3 +21,8 @@ package-lock.json
 
 # Ignore files created by MacOS
 .DS_Store
+
+# Ignore custom python scripts
+scripts/generate_favicons.py
+scripts/convert_docx.py
+
